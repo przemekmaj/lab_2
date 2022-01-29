@@ -1,4 +1,4 @@
-public class Main {
+public class Zad1_1 {
     public static void main(String[] args) {
         int liczba=1000;
         do{
@@ -10,4 +10,3 @@ public class Main {
         //nr indeksu 58178
     }
 }
-
